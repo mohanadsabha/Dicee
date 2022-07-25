@@ -95,7 +95,7 @@
                             <constraint firstItem="zmm-rL-oQO" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="cXn-Wx-ce0"/>
                             <constraint firstItem="pij-um-1h4" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailing" id="jO3-Fn-2QB"/>
                             <constraint firstItem="zmm-rL-oQO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="njn-ST-MXV"/>
-                            <constraint firstItem="pij-um-1h4" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="-44" id="ofv-kN-E03"/>
+                            <constraint firstItem="pij-um-1h4" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ofv-kN-E03"/>
                         </constraints>
                     </view>
                     <connections>
